@@ -1,0 +1,15 @@
+{
+  "id": "teste-eliabe",
+  "nome": "Teste Eliabe",
+  "versao": "1.0.0",
+  "autores": ["Eliabe"],
+  "descricao": "Jogo criado para testar a integração do Portal com a API do Recreio Arcade.",
+  "controles": "Teclado",
+  "entrada": "index.html",
+  "capa": "capa.png",
+  "classico_referencia": "Quiz",
+  "mecanica": "encaixe",
+  "tema": "Tecnologia",
+  "nivel": "ensino médio",
+  "questoes": "questoes.json"
+}
