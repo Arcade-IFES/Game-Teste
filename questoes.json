@@ -1,0 +1,19 @@
+{
+  "tema": "Tecnologia",
+  "nivel": "ensino médio",
+  "questoes": [
+    {
+      "id": "q1",
+      "enunciado": "O que significa HTML?",
+      "alternativas": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "HyperTool Markup Language",
+        "HomeText Machine Language"
+      ],
+      "correta": 0,
+      "explicacao": "HTML significa HyperText Markup Language.",
+      "fonte": "https://developer.mozilla.org/"
+    }
+  ]
+}
